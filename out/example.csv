@@ -1,0 +1,5 @@
+email,exists
+1@test.com,True
+2@test.com,True
+3@test.com,True
+9@test.com,False
